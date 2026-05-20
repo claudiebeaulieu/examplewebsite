@@ -9,5 +9,5 @@
 <h4 style="margin:0 10px 0;">Journal Reviewer</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a </autocolor> Way too many journals </a></li>
+  <li>< Way too many journals </li>
 </ul>
